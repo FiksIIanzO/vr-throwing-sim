@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3020040478
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_samplescene
+      Dependencies:
+        Dependency_0: asset_resources
+        Dependency_1: asset_prefab0
+    Info_2:
+      Name: asset_prefab0
+      Dependencies: {}
